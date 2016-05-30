@@ -7,7 +7,7 @@
         {
           "name": "High Allegiant Amon Ad-Raza",
           "fa": "C",
-          "cost": 6,
+          "cost": 29,
           "faction": "faction_menoth",
           "id": "PW05",
           "type": "warcaster"
@@ -15,7 +15,7 @@
         {
           "name": "Kreoss1(High Exemplar Kreoss)",
           "fa": "C",
-          "cost": 5,
+          "cost": 29,
           "faction": "faction_menoth",
           "id": "Pw01",
           "type": "warcaster"
@@ -23,7 +23,7 @@
         {
           "name": "Testament of Menoth",
           "fa": "C",
-          "cost": 6,
+          "cost": 27,
           "faction": "faction_menoth",
           "id": "Px02",
           "type": "warcaster"
@@ -31,7 +31,7 @@
         {
           "name": "Kreoss3(Intercessor Kreoss)",
           "fa": "C",
-          "cost": 5,
+          "cost": 28,
           "faction": "faction_menoth",
           "id": "Pz01",
           "type": "warcaster"
@@ -39,7 +39,7 @@
         {
           "name": "Kreoss2(Grand Exemplar Kreoss)",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_menoth",
           "id": "Px01",
           "type": "warcaster"
@@ -47,7 +47,7 @@
         {
           "name": "The High Reclaimer",
           "fa": "C",
-          "cost": 6,
+          "cost": 32,
           "faction": "faction_menoth",
           "id": "Pw02",
           "type": "warcaster"
@@ -55,7 +55,7 @@
         {
           "name": "The Harbinger of Menoth",
           "fa": "C",
-          "cost": 5,
+          "cost": 24,
           "faction": "faction_menoth",
           "id": "PW06",
           "type": "warcaster"
@@ -63,7 +63,7 @@
         {
           "name": "Thyra, Flame of Sorrow",
           "fa": "C",
-          "cost": 6,
+          "cost": 29,
           "faction": "faction_menoth",
           "id": "PW09",
           "type": "warcaster"
@@ -71,7 +71,7 @@
         {
           "name": "Vice Scrutator Vindictus",
           "fa": "C",
-          "cost": 6,
+          "cost": 29,
           "faction": "faction_menoth",
           "id": "PW08",
           "type": "warcaster"
@@ -79,7 +79,7 @@
         {
           "name": "Feora1(Feora, Priestess of the Flame)",
           "fa": "C",
-          "cost": 6,
+          "cost": 31,
           "faction": "faction_menoth",
           "id": "Pw04",
           "type": "warcaster"
@@ -87,7 +87,7 @@
         {
           "name": "Reznik1(High Executioner Servath Reznik)",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_menoth",
           "id": "PW07",
           "type": "warcaster"
@@ -95,7 +95,7 @@
         {
           "name": "Reznik2(Servath Reznik, Wrath of Ages)",
           "fa": "C",
-          "cost": 4,
+          "cost": 29,
           "faction": "faction_menoth",
           "id": "Px07",
           "type": "warcaster"
@@ -103,7 +103,7 @@
         {
           "name": "Anson Durst, Rock of the Faith",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_menoth",
           "id": "PW10",
           "type": "warcaster"
@@ -111,7 +111,7 @@
         {
           "name": "Feora2(Feora, Protector of the Flame)",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_menoth",
           "id": "Px04",
           "type": "warcaster"
@@ -119,7 +119,7 @@
         {
           "name": "Severius1(Grand Scrutator Severius)",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_menoth",
           "id": "Pw03",
           "type": "warcaster"
@@ -127,7 +127,7 @@
         {
           "name": "Severius2(Hierarch Severius)",
           "fa": "C",
-          "cost": 6,
+          "cost": 26,
           "faction": "faction_menoth",
           "id": "Px03",
           "type": "warcaster"
@@ -148,7 +148,7 @@
         {
           "name": "Hand of Judgment",
           "fa": "C",
-          "cost": 10,
+          "cost": 18,
           "faction": "faction_menoth",
           "id": "PJ21",
           "type": "warjack"
@@ -156,7 +156,7 @@
         {
           "name": "Sanctifier",
           "fa": "U",
-          "cost": 9,
+          "cost": 14,
           "faction": "faction_menoth",
           "id": "PJ17",
           "type": "warjack"
@@ -164,7 +164,7 @@
         {
           "name": "Scourge of Heresy",
           "fa": "C",
-          "cost": 9,
+          "cost": 16,
           "faction": "faction_menoth",
           "id": "PJ16",
           "type": "warjack"
@@ -172,7 +172,7 @@
         {
           "name": "Revenger",
           "fa": "U",
-          "cost": 6,
+          "cost": 10,
           "faction": "faction_menoth",
           "id": "PJ03",
           "type": "warjack"
@@ -180,7 +180,7 @@
         {
           "name": "Castigator",
           "fa": "U",
-          "cost": 8,
+          "cost": 12,
           "faction": "faction_menoth",
           "id": "PJ12",
           "type": "warjack"
@@ -188,7 +188,7 @@
         {
           "name": "Indictor",
           "fa": "U",
-          "cost": 8,
+          "cost": 15,
           "faction": "faction_menoth",
           "id": "PJ20",
           "type": "warjack"
@@ -196,7 +196,7 @@
         {
           "name": "Guardian",
           "fa": "U",
-          "cost": 9,
+          "cost": 15,
           "faction": "faction_menoth",
           "id": "PJ09",
           "type": "warjack"
@@ -204,7 +204,7 @@
         {
           "name": "Avatar of Menoth",
           "fa": "C",
-          "cost": 11,
+          "cost": 20,
           "faction": "faction_menoth",
           "id": "PJ11",
           "type": "warjacksolo"
@@ -212,7 +212,7 @@
         {
           "name": "Repenter",
           "fa": "U",
-          "cost": 4,
+          "cost": 8,
           "faction": "faction_menoth",
           "id": "PJ02",
           "type": "warjack"
@@ -220,7 +220,7 @@
         {
           "name": "Reckoner",
           "fa": "U",
-          "cost": 8,
+          "cost": 16,
           "faction": "faction_menoth",
           "id": "PJ10",
           "type": "warjack"
@@ -228,7 +228,7 @@
         {
           "name": "Vanquisher",
           "fa": "U",
-          "cost": 8,
+          "cost": 17,
           "faction": "faction_menoth",
           "id": "PJ08",
           "type": "warjack"
@@ -236,7 +236,7 @@
         {
           "name": "Crusader",
           "fa": "U",
-          "cost": 6,
+          "cost": 10,
           "faction": "faction_menoth",
           "id": "PJ07",
           "type": "warjack"
@@ -244,7 +244,7 @@
         {
           "name": "Blessing of Vengeance",
           "fa": "C",
-          "cost": 7,
+          "cost": 13,
           "faction": "faction_menoth",
           "id": "PJ06",
           "type": "warjack"
@@ -260,7 +260,7 @@
         {
           "name": "Blood of Martyrs",
           "fa": "C",
-          "cost": 9,
+          "cost": 16,
           "faction": "faction_menoth",
           "id": "PJ18",
           "type": "warjack"
@@ -268,7 +268,7 @@
         {
           "name": "Dervish",
           "fa": "U",
-          "cost": 4,
+          "cost": 7,
           "faction": "faction_menoth",
           "id": "PJ05",
           "type": "warjack"
@@ -276,7 +276,7 @@
         {
           "name": "Templar",
           "fa": "U",
-          "cost": 8,
+          "cost": 15,
           "faction": "faction_menoth",
           "id": "PJ14",
           "type": "warjack"
@@ -284,7 +284,7 @@
         {
           "name": "Devout",
           "fa": "U",
-          "cost": 5,
+          "cost": 9,
           "faction": "faction_menoth",
           "id": "PJ04",
           "type": "warjack"
@@ -300,7 +300,7 @@
         {
           "name": "Fire of Salvation",
           "fa": "C",
-          "cost": 9,
+          "cost": 16,
           "faction": "faction_menoth",
           "id": "PJ13",
           "type": "warjack"
@@ -308,7 +308,7 @@
         {
           "name": "Judicator",
           "fa": "2",
-          "cost": 18,
+          "cost": 36,
           "faction": "faction_menoth",
           "id": "PJ19",
           "type": "warjackColossal"
@@ -316,7 +316,7 @@
         {
           "name": "Vigilant",
           "fa": "U",
-          "cost": 4,
+          "cost": 9,
           "faction": "faction_menoth",
           "id": "PJ15",
           "type": "warjack"
@@ -324,7 +324,7 @@
         {
           "name": "Redeemer",
           "fa": "U",
-          "cost": 6,
+          "cost": 11,
           "faction": "faction_menoth",
           "id": "PJ01",
           "type": "warjack"
@@ -345,7 +345,7 @@
         {
           "name": "Vessel of Judgement",
           "fa": "2",
-          "cost": 9,
+          "cost": 18,
           "faction": "faction_menoth",
           "id": "PE01",
           "type": "battleengine"
@@ -360,7 +360,7 @@
         {
           "name": "Deliverer Sunburst Crew",
           "fa": "2",
-          "cost": 3,
+          "cost": 5,
           "faction": "faction_menoth",
           "id": "PU06",
           "type": "unit"
@@ -368,19 +368,19 @@
         {
           "max": 5,
           "min": 3,
-          "costMax": 10,
-          "fa": "1",
-          "costMin": 6,
+          "costMax": 17,
+          "fa": "2",
+          "costMin": 11,
           "id": "PU15",
           "name": "Flame Bringers",
-          "cost": 6,
+          "cost": 11,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "name": "Knights Exemplar",
-          "fa": "3",
-          "cost": 5,
+          "fa": "U",
+          "cost": 9,
           "faction": "faction_menoth",
           "id": "PU04",
           "type": "unit"
@@ -388,19 +388,19 @@
         {
           "max": 10,
           "min": 6,
-          "costMax": 8,
+          "costMax": 15,
           "fa": "2",
-          "costMin": 5,
+          "costMin": 9,
           "id": "PU07",
           "name": "Flameguard Cleansers",
-          "cost": 5,
+          "cost": 9,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "name": "Visgoth Juviah Rhoven & Honor Guard",
           "fa": "C",
-          "cost": 4,
+          "cost": 9,
           "faction": "faction_menoth",
           "id": "PU12",
           "type": "unit"
@@ -408,67 +408,67 @@
         {
           "max": 6,
           "min": 4,
-          "costMax": 3,
+          "costMax": 6,
           "fa": "3",
-          "costMin": 2,
+          "costMin": 4,
           "id": "PU01",
           "name": "Choir of Menoth",
-          "cost": 2,
+          "cost": 4,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 10,
           "min": 6,
-          "costMax": 8,
+          "costMax": 16,
           "fa": "3",
-          "costMin": 5,
+          "costMin": 10,
           "id": "PU09",
           "name": "Exemplar Errants",
-          "cost": 5,
+          "cost": 10,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 5,
           "min": 3,
-          "costMax": 8,
+          "costMax": 16,
           "fa": "2",
-          "costMin": 5,
+          "costMin": 10,
           "id": "PU14",
           "name": "Exemplar Cinerators",
-          "cost": 5,
+          "cost": 10,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 10,
           "min": 6,
-          "costMax": 10,
+          "costMax": 15,
           "fa": "2",
-          "costMin": 6,
+          "costMin": 9,
           "id": "PU13",
           "name": "Idrian Skirmishers",
-          "cost": 6,
+          "cost": 9,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 10,
           "min": 6,
-          "costMax": 8,
-          "fa": "1",
-          "costMin": 5,
+          "costMax": 13,
+          "fa": "2",
+          "costMin": 8,
           "id": "PU02",
-          "name": "Deliverers",
-          "cost": 5,
+          "name": "Deliverer Skyhammers",
+          "cost": 8,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "name": "Daughters of the Flame",
           "fa": "2",
-          "cost": 5,
+          "cost": 10,
           "faction": "faction_menoth",
           "id": "PU08",
           "type": "unit"
@@ -476,48 +476,48 @@
         {
           "max": 10,
           "min": 6,
-          "costMax": 6,
+          "costMax": 13,
           "fa": "3",
-          "costMin": 4,
+          "costMin": 8,
           "id": "PU03",
           "name": "Holy Zealots",
-          "cost": 4,
+          "cost": 8,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 5,
           "min": 3,
-          "costMax": 11,
-          "fa": "1",
-          "costMin": 7,
+          "costMax": 20,
+          "fa": "2",
+          "costMin": 12,
           "id": "PU10",
           "name": "Exemplar Vengers",
-          "cost": 7,
+          "cost": 12,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 10,
           "min": 6,
-          "costMax": 6,
+          "costMax": 11,
           "fa": "3",
-          "costMin": 4,
+          "costMin": 7,
           "id": "PU05",
           "name": "Temple Flameguard",
-          "cost": 4,
+          "cost": 7,
           "faction": "faction_menoth",
           "type": "unit"
         },
         {
           "max": 5,
           "min": 3,
-          "costMax": 8,
+          "costMax": 16,
           "fa": "2",
-          "costMin": 5,
+          "costMin": 10,
           "id": "PU11",
           "name": "Exemplar Bastions",
-          "cost": 5,
+          "cost": 10,
           "faction": "faction_menoth",
           "type": "unit"
         }
@@ -530,8 +530,8 @@
       "entries": [
         {
           "name": "Flameguard Cleanser Officer",
-          "fa": "1",
-          "cost": 2,
+          "fa": "2",
+          "cost": 4,
           "restricted_to": "PU07",
           "faction": "faction_menoth",
           "id": "PA06",
@@ -539,8 +539,8 @@
         },
         {
           "name": "Exemplar Errant Officer & Standard Bearer",
-          "fa": "1",
-          "cost": 2,
+          "fa": "3",
+          "cost": 4,
           "restricted_to": "PU09",
           "faction": "faction_menoth",
           "id": "PA04",
@@ -548,8 +548,8 @@
         },
         {
           "name": "Idrian Skirmishers Chieftain & Guide",
-          "fa": "1",
-          "cost": 3,
+          "fa": "2",
+          "cost": 5,
           "restricted_to": "PU13",
           "faction": "faction_menoth",
           "id": "PA03",
@@ -557,8 +557,8 @@
         },
         {
           "name": "Holy Zealot Monolith Bearer",
-          "fa": "1",
-          "cost": 2,
+          "fa": "3",
+          "cost": 3,
           "restricted_to": "PU03",
           "faction": "faction_menoth",
           "id": "PA01",
@@ -566,8 +566,8 @@
         },
         {
           "name": "Temple Flameguard Officer & Standard",
-          "fa": "1",
-          "cost": 2,
+          "fa": "U",
+          "cost": 4,
           "restricted_to": "PU05",
           "faction": "faction_menoth",
           "id": "PA02",
@@ -576,7 +576,7 @@
         {
           "name": "Attendant Priest",
           "fa": "2",
-          "cost": 2,
+          "cost": 3,
           "restricted_to": [
             "MU02",
             "MU03",
@@ -613,14 +613,14 @@
         {
           "name": "Exemplar Errant Seneschal",
           "fa": "2",
-          "cost": 2,
+          "cost": 4,
           "faction": "faction_menoth",
           "id": "PS11",
           "type": "solo"
         },
         {
           "name": "Wrack",
-          "fa": "1",
+          "fa": "3",
           "cost": 1,
           "faction": "faction_menoth",
           "id": "PS03",
@@ -629,7 +629,7 @@
         {
           "name": "Initiate Tristan Durant",
           "fa": "C",
-          "cost": 3,
+          "cost": 4,
           "faction": "faction_menoth",
           "id": "PS15",
           "type": "soloJourneyMan"
@@ -645,7 +645,7 @@
         {
           "name": "The Covenant of Menoth",
           "fa": "C",
-          "cost": 2,
+          "cost": 4,
           "faction": "faction_menoth",
           "id": "PS04",
           "type": "solo"
@@ -653,7 +653,7 @@
         {
           "name": "Allegiant of the Order of the Fist",
           "fa": "2",
-          "cost": 2,
+          "cost": 3,
           "faction": "faction_menoth",
           "id": "PS07",
           "type": "solo"
@@ -661,7 +661,7 @@
         {
           "name": "High Exemplar Gravus",
           "fa": "C",
-          "cost": 5,
+          "cost": 9,
           "faction": "faction_menoth",
           "id": "PS09",
           "type": "solo"
@@ -669,7 +669,7 @@
         {
           "name": "High Paladin Dartan Vilmon",
           "fa": "C",
-          "cost": 3,
+          "cost": 6,
           "faction": "faction_menoth",
           "id": "PS06",
           "type": "solo"
@@ -677,7 +677,7 @@
         {
           "name": "Pyrrhus",
           "fa": "C",
-          "cost": 3,
+          "cost": 5,
           "faction": "faction_menoth",
           "id": "PS16",
           "type": "solo"
@@ -685,7 +685,7 @@
         {
           "name": "Vassal of Menoth",
           "fa": "2",
-          "cost": 2,
+          "cost": 3,
           "faction": "faction_menoth",
           "id": "PS10",
           "type": "solo"
@@ -701,7 +701,7 @@
         {
           "name": "Reclaimer",
           "fa": "2",
-          "cost": 2,
+          "cost": 3,
           "faction": "faction_menoth",
           "id": "PS05",
           "type": "solo"
@@ -709,7 +709,7 @@
         {
           "name": "Hierophant",
           "fa": "1",
-          "cost": 2,
+          "cost": 3,
           "faction": "faction_menoth",
           "id": "PS08",
           "type": "soloAttachment"
@@ -717,7 +717,7 @@
         {
           "name": "Nicia, Tear of Vengeance",
           "fa": "C",
-          "cost": 3,
+          "cost": 5,
           "faction": "faction_menoth",
           "id": "PS13",
           "type": "solo"
@@ -725,7 +725,7 @@
         {
           "name": "Knights Exemplar Seneschal",
           "fa": "2",
-          "cost": 3,
+          "cost": 5,
           "faction": "faction_menoth",
           "id": "PS02",
           "type": "solo"
@@ -733,7 +733,7 @@
         {
           "name": "Paladin of the Order of the Wall",
           "fa": "2",
-          "cost": 2,
+          "cost": 5,
           "faction": "faction_menoth",
           "id": "PS01",
           "type": "solo"
