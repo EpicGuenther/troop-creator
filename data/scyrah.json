@@ -514,7 +514,7 @@
         {
           "name": "Arcanist",
           "fa": "3",
-          "cost": 1,
+          "cost": 2,
           "faction": "faction_retribution",
           "id": "RS01",
           "type": "solo"
