@@ -292,7 +292,7 @@
         {
           "name": "Revelator",
           "fa": "2",
-          "cost": 19,
+          "cost": 37,
           "faction": "faction_menoth",
           "id": "PJ23",
           "type": "warjackColossal"
