@@ -504,14 +504,6 @@
           "type": "solo"
         },
         {
-          "name": "Arcanist(Arcanist (Force Wall))",
-          "fa": "3",
-          "cost": 2,
-          "faction": "faction_retribution",
-          "id": "RS01_forceWall",
-          "type": "solo"
-        },
-        {
           "name": "House Shyeel Magister",
           "fa": "2",
           "cost": 4,
@@ -521,7 +513,7 @@
         },
         {
           "name": "Arcanist",
-          "fa": "2",
+          "fa": "3",
           "cost": 1,
           "faction": "faction_retribution",
           "id": "RS01",
