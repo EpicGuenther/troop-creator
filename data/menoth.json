@@ -250,9 +250,9 @@
           "type": "warjack"
         },
         {
-          "name": "Purifier",
+          "name": "Purifier (no known cost)",
           "fa": "U",
-          "cost": 5,
+          "cost": 10,
           "faction": "faction_menoth",
           "id": "PJ22",
           "type": "warjack"
