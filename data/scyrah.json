@@ -7,7 +7,7 @@
         {
           "name": "Issyria1(Issyria, Sibyl of Dawn)",
           "fa": "C",
-          "cost": 6,
+          "cost": 29,
           "faction": "faction_retribution",
           "id": "RW07",
           "type": "warcaster"
@@ -15,7 +15,7 @@
         {
           "name": "Kaelyssa1(Kaelyssa, Night's Whisper)",
           "fa": "C",
-          "cost": 7,
+          "cost": 29,
           "faction": "faction_retribution",
           "id": "RW04",
           "type": "warcaster"
@@ -23,7 +23,7 @@
         {
           "name": "Vyros1(Dawnlord Vyros)",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_retribution",
           "id": "Rw02",
           "type": "warcaster"
@@ -31,7 +31,7 @@
         {
           "name": "Garryth1(Garryth, Blade of Retribution)",
           "fa": "C",
-          "cost": 5,
+          "cost": 29,
           "faction": "faction_retribution",
           "id": "RW03",
           "type": "warcaster"
@@ -39,7 +39,7 @@
         {
           "name": "Ossyan1(Lord Arcanist Ossyan)",
           "fa": "C",
-          "cost": 6,
+          "cost": 28,
           "faction": "faction_retribution",
           "id": "RW06",
           "type": "warcaster"
@@ -47,7 +47,7 @@
         {
           "name": "Vyros2(Vyros, Incissar of the Dawnguard)",
           "fa": "C",
-          "cost": 5,
+          "cost": 27,
           "faction": "faction_retribution",
           "id": "Rx02",
           "type": "warcaster"
@@ -55,7 +55,7 @@
         {
           "name": "Thyron(Thyron, Sword of Truth)",
           "fa": "C",
-          "cost": 5,
+          "cost": 27,
           "faction": "faction_retribution",
           "id": "RW08",
           "type": "warcaster"
@@ -63,7 +63,7 @@
         {
           "name": "Ravyn1(Ravyn, Eternal Light)",
           "fa": "C",
-          "cost": 6,
+          "cost": 30,
           "faction": "faction_retribution",
           "id": "RW05",
           "type": "warcaster"
@@ -71,7 +71,7 @@
         {
           "name": "Rahn1(Adeptis Rahn)",
           "fa": "C",
-          "cost": 6,
+          "cost": 26,
           "faction": "faction_retribution",
           "id": "RW01",
           "type": "warcaster"
